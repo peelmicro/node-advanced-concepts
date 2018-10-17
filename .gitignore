@@ -4,3 +4,4 @@ nohup.out
 .vs_code
 config/dev.js
 /temporalcode
+/config/ci.plaintext.js
