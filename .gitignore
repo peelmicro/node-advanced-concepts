@@ -2,6 +2,6 @@ node_modules
 nohup.out
 .DS_Store
 .vs_code
-config/dev.js
 /temporalcode
 /config/ci.plaintext.js
+/config/dev.js
